@@ -10,7 +10,7 @@ The tools include:
 
 ## Deployment
 
-The canonical instance of Axiom is running at <https://axiomsso.herokuapp.com>,
+The canonical instance of Axiom is running at <https://trlhd-axiomsso.herokuapp.com>,
 but you can easily create your own instance on Heroku, 
 which is helpful for forks or other experimentation:
 
