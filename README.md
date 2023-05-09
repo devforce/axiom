@@ -1,6 +1,6 @@
 # Axiom
 Axiom is a web-based suite of tools for learning, testing, and troubleshooting single sign-on solutions for Salesforce.com,
-available at <https://trlhd-axiomsso.herokuapp.com>. 
+available at <https://trlhd-axiomsso-prod.herokuapp.com>. 
 The tools include:
 
  * SAML Identity Provider & Tester
@@ -10,7 +10,7 @@ The tools include:
 
 ## Deployment
 
-The canonical instance of Axiom is running at <https://trlhd-axiomsso.herokuapp.com>,
+The canonical instance of Axiom is running at <https://trlhd-axiomsso-prod.herokuapp.com>,
 but you can easily create your own instance on Heroku, 
 which is helpful for forks or other experimentation:
 
